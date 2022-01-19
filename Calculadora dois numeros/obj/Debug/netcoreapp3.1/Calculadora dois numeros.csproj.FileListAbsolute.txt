@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\Github-projetos\Calculadora\Calculadora dois numeros\bin\Debug\netcoreapp3.1\Calculadora dois numeros.exe
+C:\Users\felip\Desktop\Github-projetos\Calculadora\Calculadora dois numeros\bin\Debug\netcoreapp3.1\Calculadora dois numeros.deps.json
+C:\Users\felip\Desktop\Github-projetos\Calculadora\Calculadora dois numeros\bin\Debug\netcoreapp3.1\Calculadora dois numeros.runtimeconfig.json
+C:\Users\felip\Desktop\Github-projetos\Calculadora\Calculadora dois numeros\bin\Debug\netcoreapp3.1\Calculadora dois numeros.runtimeconfig.dev.json
+C:\Users\felip\Desktop\Github-projetos\Calculadora\Calculadora dois numeros\bin\Debug\netcoreapp3.1\Calculadora dois numeros.dll
+C:\Users\felip\Desktop\Github-projetos\Calculadora\Calculadora dois numeros\bin\Debug\netcoreapp3.1\Calculadora dois numeros.pdb
+C:\Users\felip\Desktop\Github-projetos\Calculadora\Calculadora dois numeros\obj\Debug\netcoreapp3.1\Calculadora dois numeros.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\Github-projetos\Calculadora\Calculadora dois numeros\obj\Debug\netcoreapp3.1\Calculadora_dois_numeros.Form1.resources
+C:\Users\felip\Desktop\Github-projetos\Calculadora\Calculadora dois numeros\obj\Debug\netcoreapp3.1\Calculadora dois numeros.csproj.GenerateResource.cache
+C:\Users\felip\Desktop\Github-projetos\Calculadora\Calculadora dois numeros\obj\Debug\netcoreapp3.1\Calculadora dois numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\Github-projetos\Calculadora\Calculadora dois numeros\obj\Debug\netcoreapp3.1\Calculadora dois numeros.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\Github-projetos\Calculadora\Calculadora dois numeros\obj\Debug\netcoreapp3.1\Calculadora dois numeros.AssemblyInfo.cs
+C:\Users\felip\Desktop\Github-projetos\Calculadora\Calculadora dois numeros\obj\Debug\netcoreapp3.1\Calculadora dois numeros.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Github-projetos\Calculadora\Calculadora dois numeros\obj\Debug\netcoreapp3.1\Calculadora dois numeros.dll
+C:\Users\felip\Desktop\Github-projetos\Calculadora\Calculadora dois numeros\obj\Debug\netcoreapp3.1\Calculadora dois numeros.pdb
+C:\Users\felip\Desktop\Github-projetos\Calculadora\Calculadora dois numeros\obj\Debug\netcoreapp3.1\Calculadora dois numeros.genruntimeconfig.cache
